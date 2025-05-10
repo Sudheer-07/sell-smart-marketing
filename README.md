@@ -106,10 +106,3 @@ The project uses Shadcn UI components, which are built on top of Radix UI primit
 - `tsconfig.json` - TypeScript configuration
 - `eslint.config.js` - ESLint configuration
 
-## 📝 License
-
-[Add your license information here]
-
-## 👥 Contributing
-
-[Add contribution guidelines here]
